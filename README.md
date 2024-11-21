@@ -49,6 +49,14 @@ The application is built using AWS cloud-native services to ensure scalability, 
 
 ---
 
+## Screenshots
+
+### 1. Dashboard
+![Dashboard Screenshot](images/dashboard.jpg)
+
+### 2. Add Transaction
+![Add Transaction Screenshot](images/add_transaction.jpg)
+
 ## **Repository Structure**  
 ```plaintext
 ├── index2.html        # Dashboard page after user login  
