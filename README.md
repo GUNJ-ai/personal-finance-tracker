@@ -51,7 +51,7 @@ The application is built using AWS cloud-native services to ensure scalability, 
 
 ## **Repository Structure**  
 ```plaintext
-├── index.html         # Dashboard page after user login  
-├── index2.html        # Login/Signup page for user authentication  
+├── index2.html        # Dashboard page after user login  
+├── index.html         # Login/Signup page for user authentication  
 ├── script.js          # Main JavaScript file managing frontend interactions and AWS integration  
 ├── README.md          # Project documentation  
